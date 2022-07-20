@@ -117,10 +117,9 @@
    padding: 5px;
 }
 
- .rounded-circle {
-    border:3px solid white;
- }
-
+.rounded-circle {
+   border:3px solid white;
+}
 
 #contact-section, #menuShare{
   text-shadow: none;
